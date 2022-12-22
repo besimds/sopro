@@ -1,0 +1,36 @@
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\refint\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Entity\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\obj\Debug\net5.0\refint\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Entity\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\obj\Debug\net5.0\refint\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Entity\Entity\obj\Debug\net5.0\ref\Entity.dll

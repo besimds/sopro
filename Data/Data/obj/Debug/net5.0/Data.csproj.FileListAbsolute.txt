@@ -1,0 +1,45 @@
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\bin\Debug\net5.0\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\bin\Debug\net5.0\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\bin\Debug\net5.0\Entity.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\refint\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master\Data\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\bin\Debug\net5.0\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\bin\Debug\net5.0\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\bin\Debug\net5.0\Entity.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\refint\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - test\Data\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\bin\Debug\net5.0\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\bin\Debug\net5.0\Entity.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\bin\Debug\net5.0\Entity.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\Data.csproj.CopyComplete
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\refint\Data.dll
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\Data.pdb
+C:\Users\BS\Desktop\Test SOPRO\ReadLater5-master - master\Data\Data\obj\Debug\net5.0\ref\Data.dll
